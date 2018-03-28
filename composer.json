@@ -1,5 +1,5 @@
 {
-    "name": "yousign/yousign-api-client",
+    "name": "lmasforne/yousign-api-client",
     "description": "A PHP client for the Yousign API",
     "type": "library",
     "authors": [
